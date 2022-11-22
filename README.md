@@ -35,6 +35,16 @@ SELECT count(first_name)
 FROM unique_titles;
 
 ```
+It will be a real challenge that the HR team will face. We know that such a drastic change can unbalance the smooth running of society. This is why the Mentorship program is welcome.
+Our next question is to know if we have enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Let's take a look...
+
+![mentorship_titles](https://github.com/Hanzian/Pewlett-Hackard-Analysis/blob/main/PH%20Pictures/mentorship_titles.png)
+![Retiring Title](https://github.com/Hanzian/Pewlett-Hackard-Analysis/blob/main/PH%20Pictures/retiring_titles.png)
+
+We can clearly see that the number of vacancies is significantly higher than the number of employees eligible for the mentor program.
+
+
 
 
 
