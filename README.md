@@ -40,9 +40,11 @@ Our next question is to know if we have enough qualified, retirement-ready emplo
 Let's take a look...
 
 - Mentorship Title
+
 ![mentorship_titles](https://github.com/Hanzian/Pewlett-Hackard-Analysis/blob/main/PH%20Pictures/mentorship_titles.png)
 
 - Retiring Title
+
 ![Retiring Title](https://github.com/Hanzian/Pewlett-Hackard-Analysis/blob/main/PH%20Pictures/retiring_titles.png)
 
 We can clearly see that the number of vacancies is significantly higher than the number of employees eligible for the mentor program.
