@@ -24,4 +24,17 @@ There are four CSV files holding the data of employees. The SQL tables were desi
 
 ![Mentorship Program](https://github.com/Hanzian/Pewlett-Hackard-Analysis/blob/main/PH%20Pictures/mentorship_eligibilty.png)
 
+## Summary
+
+Based on our analysis, we noticed that 72.458 roles will impacted by the "Silver Tsunami"
+
+```
+-- COUNT OF RETIREMENT 
+SELECT count(first_name) 
+-- INTO retiring_titles
+FROM unique_titles;
+
+```
+
+
 
